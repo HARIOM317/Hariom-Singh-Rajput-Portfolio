@@ -21,7 +21,7 @@ This is my personal portfolio website, built using **HTML, CSS, and JavaScript**
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 <p><img src="https://github.com/user-attachments/assets/b70a10c7-5043-4350-be5a-9994cd04b72c" alt="Hariom Singh Mewada" /></p>
 
 ---
@@ -64,7 +64,7 @@ This is my personal portfolio website, built using **HTML, CSS, and JavaScript**
 
 ---
 
-📌 Deployment
+## 📌 Deployment
 You can host this portfolio on:
   - GitHub Pages
   - Vercel
@@ -73,12 +73,12 @@ You can host this portfolio on:
 
 ---
 
-🌍 Live Demo
+## 🌍 Live Demo
 Click [here](https://hariom317.github.io/Hariom-Singh-Rajput-Portfolio/) to visit my portfolio
 
 ---
 
-💡 Future Enhancements
+## 💡 Future Enhancements
   - Add a blog section for sharing technical content.
   - Enhance a dark mode toggle.
   - Improve animations and transitions.
@@ -86,7 +86,7 @@ Click [here](https://hariom317.github.io/Hariom-Singh-Rajput-Portfolio/) to visi
 
 ---
 
-📩 Contact
+## 📩 Contact
 Feel free to connect with me:
   - [LinkedIn](https://www.linkedin.com/in/hariom-singh-mewada/)
   - [GitHub](https://github.com/HARIOM317)
